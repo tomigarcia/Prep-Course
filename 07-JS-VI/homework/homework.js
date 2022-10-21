@@ -22,6 +22,7 @@ function sumarArray(numeros, cb) {
   // Pasa el resultado a `cb`
   // No es necesario devolver nada
   //Tu código:
+  var hola = 5
 }
 
 function forEach(array, cb) {
